@@ -1,0 +1,13 @@
+.masthead {
+  margin-top: -25px;
+  height: 60vh;
+  background: linear-gradient(rgba(20, 20, 20, 0.5), rgba(20, 20, 20, 0.5)),
+    url("../img/contenthead.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
